@@ -1,4 +1,4 @@
-##Le NOM
+# Nom et prenom
 BADAOUI OTHMANE
 # BookShoppingCartMvc
 Upgraded to .net 8.0
